@@ -2,7 +2,7 @@
 This is a Simple Login Logout Build using View Engine (EJS).
 
 
- Criteria that i followed :- <br />
+ Criteria that i followed :- <br /><br />
   ✅Login page should accept the username and password from the user.<br />
   ✅The username and password should be validated on the server side with a predefined value.<br />
   ✅If correct, give access to the home page. <br />
